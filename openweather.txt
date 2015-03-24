@@ -1,0 +1,6 @@
+Name=openweather
+URL=http\://api.openweathermap.org/data/2.5/weather
+ProxyType=Internet
+Type=HTTP
+CloudConnectorVersion=1
+Authentication=NoAuthentication
