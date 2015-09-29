@@ -1,4 +1,4 @@
-sap.ui.core.mvc.Controller.extend("articlemock_ns.view.Detail", {
+sap.ui.core.mvc.Controller.extend("articlemock_ns.controller.Detail", {
 
 	onInit: function() {
 		this.oInitialLoadFinishedDeferred = jQuery.Deferred();
